@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Currently working on.. 
+My HTML, Css and JS skills.
+
+## Pronouns..
+He/him
